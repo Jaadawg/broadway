@@ -17,7 +17,7 @@ h1 {
   color: #fff;
 }
 
-nav p a {
+nav p a, footer p a {
   font-size: 18px;
   color: #fff;
 }
@@ -38,4 +38,18 @@ section p {
 
 #new-york {
   background: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+
+#new-york h3 {
+  color: #fff;
+}
+
+footer {
+  background: dimgray;
+  text-align: left;
+}
+
+footer p {
+  color: #fff;
+  font-size: 11px;
 }
